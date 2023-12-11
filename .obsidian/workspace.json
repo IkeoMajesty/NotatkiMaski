@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2a915e64e47e33af",
+        "id": "2f7e4077656c232a",
         "type": "tabs",
         "children": [
           {
-            "id": "689dd39052f83217",
+            "id": "9d70a7b2d6b2f205",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JuJu House.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc1f116e6bcd766f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Egipt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6de5bedde3dc7a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fundacja Panheva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdaaeca3018038e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ahji Singh.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fundacja Panheva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fundacja Panheva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "fundacja Panheva.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,12 +137,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6de5bedde3dc7a3",
+  "active": "9d70a7b2d6b2f205",
   "lastOpenFiles": [
+    "JuJu House.md",
+    "Egipt.md",
+    "Hong Kong.md",
+    "fundacja Panheva.md",
     "dochodzenie Eliasa odnośnie wyprawy Carlyle'a.md",
     "Carlton Ramsey.md",
     "Bradley Grey.md",
-    "Egipt.md",
     "Anthony Cowl.md",
     "Bóg Czarnego Wiatru.md",
     "Bar Victoria.md",
@@ -196,7 +154,6 @@
     "Ahji Singh.md",
     "\"Nails\" Nelson.md",
     "notatki Eliasa.md",
-    "JuJu House.md",
     "Mombas.md",
     "Emerson Imports.md",
     "Wyprawa Carlyle'a.md",
@@ -207,9 +164,7 @@
     "Jackson Elias.md",
     "Hilton Addams.md",
     "Jack Brady.md",
-    "Hong Kong.md",
     "Roger Carlyle.md",
-    "Kult Krwawego Języka.md",
     "Untitled.canvas"
   ]
 }
