@@ -1,0 +1,1 @@
+Towarzystwo działajace przy [[Uniwersytet Miskatonic]]

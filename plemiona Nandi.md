@@ -1,0 +1,1 @@
+Są powiązane z [[Kult Krwawego Języka]]?

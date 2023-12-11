@@ -1,0 +1,1 @@
+W Kenii [[Wyprawa Carlyle'a]] podążyła do [[Nairobii]].

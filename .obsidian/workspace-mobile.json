@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "ff99889e27522c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "e846e801e8df2e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c757599ad162d051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dochodzenie Eliasa odnośnie wyprawy Carlyle'a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "124306857c00d8a6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b67311b82d2030d1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8f2910fbd6a5bea0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "43fdec75797f97ce",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fc2464b468f36246",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fc4529e8df526746",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f46ba117d7c3a1e8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "dochodzenie Eliasa odnośnie wyprawy Carlyle'a.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "41752513823e6c77",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "dochodzenie Eliasa odnośnie wyprawy Carlyle'a.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d672914907a33e14",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "dochodzenie Eliasa odnośnie wyprawy Carlyle'a.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c757599ad162d051",
+  "lastOpenFiles": [
+    "Roger Corydon.md",
+    "Bar Pijany Tygrys.md",
+    "Bóg Czarnego Wiatru.md",
+    "Selkirk.md",
+    "Uniwersytet Miskatonic.md",
+    "\"Nails\" Nelson.md",
+    "Hilton Addams.md",
+    "Kenia.md",
+    "Krwawy Język.md",
+    "plemiona Nandi.md",
+    "Starret.md",
+    "Nairobii.md",
+    "Rebecca Shosenburg.md",
+    "Polinezyjska Ezoteryka.md",
+    "Roger Carlyle.md",
+    "Mroczne Sekrety Afryki.md",
+    "Johnson Kennyatt.md",
+    "Sam Mariga.md",
+    "Kair.md",
+    "Mark Selkirk.md",
+    "Jack Brady.md",
+    "Góra Czarnego Wiatru.md",
+    "Neville Jermyn.md",
+    "Carlton Ramsey.md",
+    "Endicott.md",
+    "JuJu House.md"
+  ]
+}
