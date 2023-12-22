@@ -26,5 +26,5 @@ Znaleźliśmy osobiste rzeczy należące do wielu osób w tym:
 10. [[Czerwone szaty ceremonialne]]
 11. [[Szal z czerwonymi piórami]]
 12. [[Zeszyt z płatnościami]]
-13. [[pióro]]
+13. [[Pióro]]
 14. 
