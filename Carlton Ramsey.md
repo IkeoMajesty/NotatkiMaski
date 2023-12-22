@@ -6,6 +6,9 @@ aliases:
 
 
 Prawnik [[Jackson Elias]]a ma nam przeczytać jego testament.
+Dostajemy fundusz na wyprawę
+List pozdrawiam Was zza grobu
+
 
 
 

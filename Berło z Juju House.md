@@ -1,2 +1,2 @@
 znalezione w [[JuJu House]]
-hieroglify Egipskie oznaczja Nyambe
+hieroglify Egipskie oznaczają "Nyambe, Twa Moc moją Mocą"
