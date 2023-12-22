@@ -1,0 +1,1 @@
+Wydawca [[Jackson Elias]]a i jego przyjaciel który przekazał nam jego [[notatki]]

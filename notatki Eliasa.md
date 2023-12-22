@@ -1,3 +1,9 @@
+---
+aliases:
+  - notatki
+---
+
+
 Pierwszy zbiór notatek z Nairobi jest listą biur, przedstawicieli władz i plemion, które [[Jackson Elias|Elias]] odwiedził podczas poszukiwania materiałów dotyczących kultów i ich rytuałów. Elias wspomina o Rogerze Corydonie ([[Roger Corydon]]), Podsekretarzu ds. Wewnętrznych, przedstawicielu władz kolonialnych. Jednak zaznacza, że nie dowiedział się niczego rozstrzygającego. Elias traktuje sceptycznie oficjalny raport dotyczący masakry ekspedycji Carlyle'a. 
 
 Drugi zbiór notatek opisuje wyprawę Eliasa na miejsce masakry. Odnotowuje, że ziemia w tym miejscu jest całkowicie jałowa, a wszystkie okoliczne plemiona unikają tego obszaru, twierdząc, że miejsce jest przeklęte przez Boga [[Bóg Czarnego Wiatru|Czarnego Wiatru]], który rezyduje na szczycie pobliskiej góry (Patrz: [[Góra Czarnego Wiatru]]). 

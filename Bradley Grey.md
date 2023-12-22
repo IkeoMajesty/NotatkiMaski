@@ -1,0 +1,1 @@
+Prawnik [[Roger Carlyle]]a. Załatwiał mu rzeczy z Egiptu.
