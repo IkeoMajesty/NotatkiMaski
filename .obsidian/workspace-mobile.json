@@ -11,13 +11,52 @@
             "id": "c757599ad162d051",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            },
+            "group": "2f53a5ccb950f99a"
+          }
+        ]
+      },
+      {
+        "id": "b007cf2edde8854c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e870d1a117b26f99",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
                 "file": "dochodzenie Eliasa odnośnie wyprawy Carlyle'a.md",
-                "mode": "source",
-                "source": false
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
               }
-            }
+            },
+            "group": "2f53a5ccb950f99a"
           }
         ]
       }
@@ -85,7 +124,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "dochodzenie Eliasa odnośnie wyprawy Carlyle'a.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +140,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "dochodzenie Eliasa odnośnie wyprawy Carlyle'a.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +150,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "dochodzenie Eliasa odnośnie wyprawy Carlyle'a.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -133,6 +168,7 @@
   },
   "active": "c757599ad162d051",
   "lastOpenFiles": [
+    "dochodzenie Eliasa odnośnie wyprawy Carlyle'a.md",
     "Roger Corydon.md",
     "Bar Pijany Tygrys.md",
     "Bóg Czarnego Wiatru.md",
@@ -157,7 +193,6 @@
     "Góra Czarnego Wiatru.md",
     "Neville Jermyn.md",
     "Carlton Ramsey.md",
-    "Endicott.md",
-    "JuJu House.md"
+    "Endicott.md"
   ]
 }

@@ -1,0 +1,1 @@
+Te same pióra zdobią [[Dziwna drewniana maska o 4 twarzach]]

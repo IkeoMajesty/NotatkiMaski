@@ -1,0 +1,4 @@
+---
+aliases:
+  - kult ojca nietoperzy
+---

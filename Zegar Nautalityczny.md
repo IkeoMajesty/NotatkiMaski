@@ -1,0 +1,1 @@
+Pokazuje czas GST

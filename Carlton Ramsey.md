@@ -5,7 +5,7 @@ aliases:
 2. 
 
 
-Prawnik [[Jackson Elias]]a
+Prawnik [[Jackson Elias]]a ma nam przeczytać jego testament.
 
 
 
