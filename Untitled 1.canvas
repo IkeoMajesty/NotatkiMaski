@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"3e0aec8bad684898","x":-45,"y":-331,"width":565,"height":400,"type":"file","file":"Bar Pijany Tygrys.md"},
-		{"id":"436d17cf97b4c034","x":380,"y":-1018,"width":400,"height":400,"color":"1","type":"file","file":"Aubrey Penhew.md"}
-	],
-	"edges":[
-		{"id":"e37094845cc6aa95","fromNode":"436d17cf97b4c034","fromSide":"bottom","toNode":"3e0aec8bad684898","toSide":"right"}
-	]
-}
