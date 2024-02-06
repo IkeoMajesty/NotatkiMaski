@@ -1,3 +1,4 @@
+
 19 zamordowanych
 17 z nich z Egiptu
 dorośli obu płci
