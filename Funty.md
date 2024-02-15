@@ -1,0 +1,1 @@
+10 dolarów to 1 funt

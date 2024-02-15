@@ -7,7 +7,7 @@ aliases:
 -List z [[Egipt]] o treści:
 Szanowny Panie Carlyle, Pana prawnik ([[Bradley Grey]]??? - Dop. Edwarda) poinformował mnie, że poszukuje Pan szczególnych informacji dotyczących tego kraju i jego odległej przeszłości. Sądzę, że mogę zaoferować Panu pomoc w tym zakresie. Mój rekonesans w Starej Dzielnicy pozwolił mi na odnalezienie pana [[Faraz Nadżir]], który rezyduje przy Ulicy Szakali. Twierdzi on, że posiada „niezwykłe okazy”, które mogą spotkać się z Pana żywym zainteresowaniem. Jest skłonny się z nimi rozstać za odpowiednią cenę, którą Panowie uzgodnicie. Mogę Pana zapewnić, że podejmę wszelkie starania mające na celu zapewnienie Panu satysfakcjonującej transakcji. Z wyrazami szacunku M . Warren Besar
 
--Ulotka z [[fundacja Panheva]] w Londynie. 
+-Ulotka z [[Fundacja Penheva]] w Londynie. 
 
 -wizytówka z [[Emerson Imports]] z napisanym z tyłu imieniem [[Silas N'Kwane]]
 

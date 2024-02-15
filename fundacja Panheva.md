@@ -1,1 +1,0 @@
-szef Edward Giislkfsdlkfjsld
