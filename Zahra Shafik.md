@@ -1,2 +1,2 @@
-właścielka sklepu z przyprawami, piętro pod [[Klub Niebieska Piramida]]
+właścielka sklepu z przyprawami, 300 metrów od [[Klub Niebieska Piramida]]
 to ona tak naprawdę kieruje Klubem
